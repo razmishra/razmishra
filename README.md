@@ -36,7 +36,11 @@
   <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
  
 </p>
-<summary>:zap: Top Languages </summary>
+<div style={display:flex}>
+<h2> :zap: Top Languages </h2><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razmishra&show_icons=true&locale=en&layout=compact" alt="razmishra" /></p>
+  </div>
+  <div>
 <h2 align="center">🐦 Github Statistics </h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=razmishra&show_icons=true&locale=en" alt="razmishra" /></p>
+</div>
