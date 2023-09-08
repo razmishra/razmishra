@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rajneeshmishra672@gmail.com**
 
-- 📄 Know about my experiences [https://onedrive.live.com/?authkey=%21AJcusYbmwUJ7Znc&cid=3A3F1E42DD4C9231&id=3A3F1E42DD4C9231%21754&parId=root&o=OneUp](https://onedrive.live.com/?authkey=%21AJcusYbmwUJ7Znc&cid=3A3F1E42DD4C9231&id=3A3F1E42DD4C9231%21754&parId=root&o=OneUp)
+- 📄 Know about my experiences <span> <a href="https://onedrive.live.com/?authkey=%21ABwWOPgp2L8lqhk&cid=3A3F1E42DD4C9231&id=3A3F1E42DD4C9231%2116304&parId=root&o=OneUp" target="__blank">View Resmue</a> </span>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,8 +38,6 @@
 <div>
 <summary> :zap: Top Languages </summary><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razmishra&show_icons=true&locale=en&layout=compact" alt="razmishra" /></p>
-  </div>
-  <div>
 <h2 align="center">🐦 Github Statistics </h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=razmishra&show_icons=true&locale=en" alt="razmishra" /></p>
 </div>
