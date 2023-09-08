@@ -34,10 +34,9 @@
   <img src="https://img.shields.io/badge/firebase%20-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/postgresql%20-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
- 
 </p>
-<div style={display:flex}>
-<h2> :zap: Top Languages </h2><br>
+<div>
+<summary> :zap: Top Languages </summary><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razmishra&show_icons=true&locale=en&layout=compact" alt="razmishra" /></p>
   </div>
   <div>
