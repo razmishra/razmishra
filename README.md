@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rajneeshmishra672@gmail.com**
 
-- 📄 Know about my experiences <span> <a href="https://onedrive.live.com/?authkey=%21ABwWOPgp2L8lqhk&cid=3A3F1E42DD4C9231&id=3A3F1E42DD4C9231%2116304&parId=root&o=OneUp" target="__blank">View Resmue</a> </span>
+- 📄 Know about my experiences <span> <a href="https://onedrive.live.com/?authkey=%21AFC7%5F9etARr23kM&cid=3A3F1E42DD4C9231&id=3A3F1E42DD4C9231%2116363&parId=root&o=OneUp" target="__blank">View Resmue</a> </span>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
